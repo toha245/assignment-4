@@ -27,5 +27,5 @@ function electionResult(electionChart){
     }
 }
 
-const result = electionResult(['mango', 'banana', 'mango', 'banana', 'na vote', 'banana', 'mango', 'mango']);
-console.log(result);
+// const result = electionResult(['mango', 'banana', 'mango', 'banana', 'na_vote', 'banana', 'mango', 'mango']);
+// console.log(result);
